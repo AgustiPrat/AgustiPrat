@@ -38,4 +38,6 @@ I build agentic AI systems by day and coach a kids' football team by evening. �
 
 ## 📫 Get in touch
 
-Open an issue on any of my repos, or find me around Lleida's tech events.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustí%20Prat-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%AD-prat-3327bb1a4/)
+
+Feel free to connect on LinkedIn or open an issue on any of my repos.
